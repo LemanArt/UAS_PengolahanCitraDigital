@@ -108,9 +108,9 @@ Dosen Pengampu   : Muhammad Najamuddin Dwi Miharja, S.Kom, M.Kom<br>
 ### Berikut adalah hasil dari program diatas
 1. Pertama kita akan disuguhi GUI untuk pilih Gambar
    ![image](https://github.com/LemanArt/UAS_PengolahanCitraDigital/assets/92553676/816d72d7-4725-4e07-9316-b0d200a13c8b)
-<br>
 2. Kemudian Setelah Memilih Gambar, kita akan melihat GUI tentang Perbandingan Original Image dan Median filter serta mse dan psnr nya, seperti berikut
-   ![image](https://github.com/LemanArt/UAS_PengolahanCitraDigital/assets/92553676/02fa5a0d-df10-4a29-ae16-f7ebb3ae0bd5)
+   ![image](https://github.com/LemanArt/UAS_PengolahanCitraDigital/assets/92553676/ea084e00-5c33-410d-a4d2-33463d37951c)
+
 
 
 
